@@ -1,3 +1,6 @@
 [submodule "common-core/libft"]
 	path = common-core/libft
 	url = https://github.com/oxo4real/libft.git
+[submodule "pool/pool-1337"]
+	path = pool/pool-1337
+	url = https://github.com/oxo4real/pool-1337.git
