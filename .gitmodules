@@ -4,3 +4,6 @@
 [submodule "pool/pool-1337"]
 	path = pool/pool-1337
 	url = https://github.com/oxo4real/pool-1337.git
+[submodule "common-core/circle1/get_next_line"]
+	path = common-core/circle1/get_next_line
+	url = git@github.com:oxo4real/get_next_line.git
