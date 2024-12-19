@@ -10,6 +10,6 @@
 [submodule "common-core/circle1/ft_printf"]
 	path = common-core/circle1/ft_printf
 	url = https://github.com/oxo4real/ft_printf.git
-[submodule "common-core/circle1/pipex"]
-	path = common-core/circle1/pipex
+[submodule "common-core/circle2/pipex"]
+	path = common-core/circle2/pipex
 	url = https://github.com/oxo4real/pipex.git
