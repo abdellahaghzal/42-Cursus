@@ -13,3 +13,6 @@
 [submodule "common-core/circle2/pipex"]
 	path = common-core/circle2/pipex
 	url = https://github.com/oxo4real/pipex.git
+[submodule "common-core/circle2/fractol"]
+	path = common-core/circle2/fractol
+	url = https://github.com/oxo4real/fractol.git
