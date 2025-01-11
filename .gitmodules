@@ -19,3 +19,6 @@
 [submodule "common-core/circle1/Born2beroot"]
 	path = common-core/circle1/Born2beroot
 	url = https://github.com/oxo4real/Born2beroot.git
+[submodule "common-core/circle2/push_swap"]
+	path = common-core/circle2/push_swap
+	url = https://github.com/oxo4real/push_swap.git
