@@ -19,3 +19,6 @@
 [submodule "common-core/circle2/push_swap"]
 	path = common-core/circle2/push_swap
 	url = https://github.com/oxo4real/push_swap.git
+[submodule "common-core/libft"]
+	path = common-core/libft
+	url = https://github.com/oxo4real/libft.git
