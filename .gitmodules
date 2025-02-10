@@ -22,3 +22,6 @@
 [submodule "common-core/circle0/libft"]
 	path = common-core/circle0/libft
 	url = https://github.com/oxo4real/libft.git
+[submodule "common-core/circle3/philosophers"]
+	path = common-core/circle3/philosophers
+	url = https://github.com/oxo4real/philosophers.git
