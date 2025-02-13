@@ -25,3 +25,6 @@
 [submodule "common-core/circle3/philosophers"]
 	path = common-core/circle3/philosophers
 	url = https://github.com/oxo4real/philosophers.git
+[submodule "common-core/circle2/minitalk"]
+	path = common-core/circle2/minitalk
+	url = https://github.com/oxo4real/minitalk.git
