@@ -28,3 +28,6 @@
 [submodule "common-core/circle2/minitalk"]
 	path = common-core/circle2/minitalk
 	url = https://github.com/oxo4real/minitalk.git
+[submodule "common-core/circle4/netpractice"]
+	path = common-core/circle4/netpractice
+	url = https://github.com/oxo4real/netpractice.git
