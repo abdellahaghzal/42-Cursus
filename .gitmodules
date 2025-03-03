@@ -34,3 +34,6 @@
 [submodule "common-core/circle3/minishell"]
 	path = common-core/circle3/minishell
 	url = https://github.com/oxo4real/minishell.git
+[submodule "common-core/circle4/CPP_modules/cpp00"]
+	path = common-core/circle4/CPP_modules/cpp00
+	url = https://github.com/oxo4real/cpp00.git
