@@ -40,3 +40,9 @@
 [submodule "common-core/circle4/CPP_modules/cpp01"]
 	path = common-core/circle4/CPP_modules/cpp01
 	url = https://github.com/oxo4real/cpp01.git
+[submodule "common-core/circle4/CPP_modules/cpp02"]
+	path = common-core/circle4/CPP_modules/cpp02
+	url = git@github.com:oxo4real/cpp02.git
+[submodule "common-core/circle4/CPP_modules/cpp03"]
+	path = common-core/circle4/CPP_modules/cpp03
+	url = git@github.com:oxo4real/cpp03.git
