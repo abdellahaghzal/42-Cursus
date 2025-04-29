@@ -1,54 +1,54 @@
 [submodule "pool/pool-1337"]
 	path = pool/pool-1337
-	url = https://github.com/oxo4real/pool-1337.git
+	url = https://github.com/abdellahaghzal/pool-1337.git
 [submodule "common-core/circle1/get_next_line"]
 	path = common-core/circle1/get_next_line
-	url = git@github.com:oxo4real/get_next_line.git
+	url = git@github.com:abdellahaghzal/get_next_line.git
 [submodule "common-core/circle1/ft_printf"]
 	path = common-core/circle1/ft_printf
-	url = https://github.com/oxo4real/ft_printf.git
+	url = https://github.com/abdellahaghzal/ft_printf.git
 [submodule "common-core/circle2/pipex"]
 	path = common-core/circle2/pipex
-	url = https://github.com/oxo4real/pipex.git
+	url = https://github.com/abdellahaghzal/pipex.git
 [submodule "common-core/circle2/fractol"]
 	path = common-core/circle2/fractol
-	url = https://github.com/oxo4real/fractol.git
+	url = https://github.com/abdellahaghzal/fractol.git
 [submodule "common-core/circle1/Born2beroot"]
 	path = common-core/circle1/Born2beroot
-	url = https://github.com/oxo4real/Born2beroot.git
+	url = https://github.com/abdellahaghzal/Born2beroot.git
 [submodule "common-core/circle2/push_swap"]
 	path = common-core/circle2/push_swap
-	url = https://github.com/oxo4real/push_swap.git
+	url = https://github.com/abdellahaghzal/push_swap.git
 [submodule "common-core/circle0/libft"]
 	path = common-core/circle0/libft
-	url = https://github.com/oxo4real/libft.git
+	url = https://github.com/abdellahaghzal/libft.git
 [submodule "common-core/circle3/philosophers"]
 	path = common-core/circle3/philosophers
-	url = https://github.com/oxo4real/philosophers.git
+	url = https://github.com/abdellahaghzal/philosophers.git
 [submodule "common-core/circle2/minitalk"]
 	path = common-core/circle2/minitalk
-	url = https://github.com/oxo4real/minitalk.git
+	url = https://github.com/abdellahaghzal/minitalk.git
 [submodule "common-core/circle4/netpractice"]
 	path = common-core/circle4/netpractice
-	url = https://github.com/oxo4real/netpractice.git
+	url = https://github.com/abdellahaghzal/netpractice.git
 [submodule "common-core/circle3/minishell"]
 	path = common-core/circle3/minishell
-	url = https://github.com/oxo4real/minishell.git
+	url = https://github.com/abdellahaghzal/minishell.git
 [submodule "common-core/circle4/CPP_modules/cpp00"]
 	path = common-core/circle4/CPP_modules/cpp00
-	url = https://github.com/oxo4real/cpp00.git
+	url = https://github.com/abdellahaghzal/cpp00.git
 [submodule "common-core/circle4/CPP_modules/cpp01"]
 	path = common-core/circle4/CPP_modules/cpp01
-	url = https://github.com/oxo4real/cpp01.git
+	url = https://github.com/abdellahaghzal/cpp01.git
 [submodule "common-core/circle4/CPP_modules/cpp02"]
 	path = common-core/circle4/CPP_modules/cpp02
-	url = git@github.com:oxo4real/cpp02.git
+	url = git@github.com:abdellahaghzal/cpp02.git
 [submodule "common-core/circle4/CPP_modules/cpp03"]
 	path = common-core/circle4/CPP_modules/cpp03
-	url = git@github.com:oxo4real/cpp03.git
+	url = git@github.com:abdellahaghzal/cpp03.git
 [submodule "common-core/circle4/CPP_modules/cpp04"]
 	path = common-core/circle4/CPP_modules/cpp04
-	url = git@github.com:oxo4real/cpp04.git
+	url = git@github.com:abdellahaghzal/cpp04.git
 [submodule "common-core/circle4/Cub3D"]
 	path = common-core/circle4/Cub3D
-	url = git@github.com:oxo4real/Cub3D.git
+	url = git@github.com:abdellahaghzal/Cub3D.git
