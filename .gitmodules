@@ -1,6 +1,3 @@
-[submodule "pool/pool-1337"]
-	path = pool/pool-1337
-	url = https://github.com/abdellahaghzal/pool-1337.git
 [submodule "common-core/circle1/get_next_line"]
 	path = common-core/circle1/get_next_line
 	url = git@github.com:abdellahaghzal/get_next_line.git
@@ -52,3 +49,6 @@
 [submodule "common-core/circle4/Cub3D"]
 	path = common-core/circle4/Cub3D
 	url = git@github.com:abdellahaghzal/Cub3D.git
+[submodule "pool/pool-1337"]
+	path = pool/pool-1337
+	url = git@github.com:abdellahaghzal/pool-1337.git
